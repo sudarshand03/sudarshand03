@@ -14,7 +14,7 @@
 ## 🚀 Featured Projects
 | Project                             | Description                                           | Tech                          |
 | :---------------------------------- | :---------------------------------------------------- | :---------------------------- |
-| [fmm-visualizer](…)                 | 2D Fast Multipole Method & field-intensity visualizer | C++, Python, NumPy, Matplotlib     |
+| [fmm-visualizer](…)                 | 2D Fast Multipole Method & field-intensity visualizer | C++, Python, Matplotlib     |
 | [habit-tracker](…)                  | Full-stack habit-tracking app w/ reminders & stats    | Node.js, Express, PostgreSQL  |
 | [liver-exchange](…)                 | Reinforcement Learning for dynamic liver-exchange matching            | Python, PyTorch, Pandas       |
 | [projected-cg-portfolio](…)         | Portfolio optimization via Projected CG               | Python, SciPy, Matplotlib     |
